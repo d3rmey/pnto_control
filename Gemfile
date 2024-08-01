@@ -14,7 +14,7 @@ gem 'uglifier', '>= 1.3.0'
 gem 'devise'
 gem 'simple_form'
 
-gem 'bootstrap-sass', '~> 3.2.0'
+gem 'bootstrap-sass', '~> 3.4.1'
 gem 'font-awesome-rails'
 
 gem 'time_diff'
